@@ -20,3 +20,4 @@ def dashboard_gui():
 
     Button(root, text="Close", width=20, bg="#dda0dd", font=("Arial", 12), command=root.destroy).pack(pady=10)
     root.mainloop()
+    #uploated in fresh-branch 
